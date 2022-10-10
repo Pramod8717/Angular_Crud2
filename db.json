@@ -1,0 +1,89 @@
+{
+  "productList": [
+    {
+      "id": 1,
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 2,
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 3,
+      "firstName": "Neha",
+      "lastName": "Bali",
+      "email": "nehabali@gmail.com",
+      "mobile": "8999854988",
+      "salary": "14838"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Neha",
+      "mobile": 8999854988,
+      "email": "neha@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "fullname": "Swapnil",
+      "mobile": 7021494411,
+      "email": "sopu@gmail.com",
+      "password": "432",
+      "id": 2
+    },
+    {
+      "fullname": "Gaurav Sapkal",
+      "mobile": 1234576789,
+      "email": "gauravsapkal1234@gmail.com",
+      "password": "567",
+      "id": 3
+    },
+    {
+      "fullname": "priyanka",
+      "mobile": "1234567890",
+      "email": "piyu@gmail.com",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "fullname": "jiya",
+      "mobile": "1234567890",
+      "email": "jiya@gmail.com",
+      "password": "123",
+      "id": 7
+    },
+    {
+      "fullname": "Gaurav Sapkal",
+      "mobile": "1234567892",
+      "email": "gauravsapkal1234@gmail.com",
+      "password": "123",
+      "id": 8
+    },
+    {
+      "fullname": "Mayur Shinde",
+      "mobile": "1234567899",
+      "email": "mayurshinde@gmail.com",
+      "password": "Abc",
+      "id": 9
+    },
+    {
+      "fullname": "nisha",
+      "mobile": "4576787989",
+      "email": "nisha@gmail.com",
+      "password": "000",
+      "id": 10
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
